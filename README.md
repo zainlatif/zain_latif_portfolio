@@ -7,7 +7,7 @@
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/zainlatif/zainlatif.github.io)
 <a href="https://github.com/zainlatif/zainlatif.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
-<img width="100%" alt="Portfolio Screenshot" src="https://github.com/zainlatif/zainlatif.github.io/assets/86096184/fd0d70b2-1505-4adf-8b0c-427df58607e3">
+<img width="100%" alt="Portfolio Screenshot" src="https://github.com/zainlatif/zainlatif.github.io/src/webp/zainlatif_portfolio.png">
 
 <!-- 
 ░█████████            ░██              ░██                       ░██    ░██    ░████ 
@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 * [<b>Animista</b>](https://animista.net/) - To use Interactive animations
 
 
-Please contact me at zainlatif@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
+Please contact me at zainlatif702@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
