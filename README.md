@@ -3,7 +3,7 @@
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/zainlatif/zainlatif.github.io)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://zainlatif.github.io/)
-[![Author](https://img.shields.io/badge/Author-Zain%20Latif-purple.svg)](https://www.instagram.com/zainlatif)
+[![Author](https://img.shields.io/badge/Author-Zain%20Latif-purple.svg)](https://www.instagram.com/zainlatif702)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/zainlatif/zainlatif.github.io)
 <a href="https://github.com/zainlatif/zainlatif.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
