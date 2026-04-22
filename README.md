@@ -7,7 +7,7 @@
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/zainlatif/zainlatif.github.io)
 <a href="https://github.com/zainlatif/zainlatif.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
-<img width="100%" alt="Portfolio Screenshot" src="https://github.com/zainlatif/zainlatif.github.io/src/webp/zainlatif_portfolio.png">
+<img width="100%" alt="Portfolio Screenshot" src="https://raw.githubusercontent.com/zainlatif/zainlatif.github.io/main/src/webp/zainlatif_portfolio.png">
 
 <!-- 
 ░█████████            ░██              ░██                       ░██    ░██    ░████ 
