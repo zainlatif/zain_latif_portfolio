@@ -38,7 +38,6 @@ body {
     font-family: Whitney, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif
 }
 
-.eye,
 .image-div,
 .logo,
 .navbar,
@@ -461,11 +460,6 @@ noscript {
 }
 
 .activeThistab:before,
-.face {
-    content: "";
-    position: absolute
-}
-
 .logo-top img {
     height: 100%;
     z-index: 2
@@ -1077,11 +1071,6 @@ noscript {
     font-size: 1.05rem;
     line-height: 1.8;
     color: var(--color-gray);
-}
-
-.faq-item:hover {
-    transform: translateY(-4px);
-    transition: transform .25s ease;
 }
 
 .project-box,
