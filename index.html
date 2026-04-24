@@ -5,28 +5,76 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="index, follow" />
   <meta name="theme-color" content="#000" />
-  <meta name="description" content="Zain Latif | Portfolio. Visit and know about me & my projects/designs. I value simple content structure, clean design patterns, and thoughtful interactions." />
-  <meta name="keywords" content="zain latif, zain latif portfolio, zain latif site, zain latif github, zain latif data nalyst" />
+  <meta name="description" content="Zain Latif Portfolio — Software Engineer, Data Analyst, and AI/ML Enthusiast. Explore my projects, skills, and data-driven web applications." />
+  <meta name="keywords" content="zain latif portfolio, zainlatifportfolio, zain latif software engineer, software engineer portfolio, data analyst portfolio" />
   <meta name="author" content="Zain Latif" />
+  <link rel="canonical" href="https://zainlatif.vercel.app/" />
 
   <!-- Open Graph / Facebook -->
-  <meta property="og:title" content="Zain Latif | Portfolio" />
-  <meta property="og:description" content="Hi, I'm Zain Latif, a Data Analyst and AI/ML Enthusiast." />
+  <meta property="og:title" content="Zain Latif Portfolio | Software Engineer" />
+  <meta property="og:description" content="Zain Latif is a Software Engineer and Data Analyst building data-driven web applications and AI solutions." />
   <meta property="og:image" content="/src/png/Preview-card-min.png" />
   <meta property="og:url" content="https://zainlatif.vercel.app" />
   <meta property="og:site_name" content="Zain Latif Portfolio" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Zain Latif | Portfolio" />
-  <meta name="twitter:description" content="Hi, I'm Zain Latif, a Data Analyst and AI/ML Enthusiast." />
+  <meta name="twitter:title" content="Zain Latif Portfolio | Software Engineer" />
+  <meta name="twitter:description" content="Zain Latif is a Software Engineer and Data Analyst building data-driven web applications and AI solutions." />
   <meta name="twitter:image" content="/src/png/Preview-card-min.png" />
 
-  <title>Zain Latif | Portfolio</title>
+  <title>Zain Latif Portfolio | Software Engineer</title>
   <link rel="icon" type="image/x-icon" href="src/png/main-favicon.png" />
 
   <!-- AOS Animation -->
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Zain Latif",
+    "jobTitle": "Software Engineer",
+    "description": "Software Engineer and Data Analyst building data-driven web applications and AI solutions.",
+    "url": "https://zainlatif.vercel.app/",
+    "sameAs": [
+      "https://github.com/zainlatif",
+      "https://www.linkedin.com/in/zainlatif702/"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What does Zain Latif do?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Zain Latif is a Software Engineer and Data Analyst who builds data-driven web applications, AI solutions, and analytics projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where is Zain Latif's portfolio hosted?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The portfolio is hosted on Vercel at https://zainlatif.vercel.app/."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I contact Zain Latif?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can contact Zain via email at zainlatif702@gmail.com or find him on GitHub and LinkedIn."
+        }
+      }
+    ]
+  }
+  </script>
 
   <!-- Main Stylesheet -->
   <link rel="stylesheet" href="style.css" />
@@ -78,6 +126,11 @@
               &#60;/Projects&#62;
             </a>
           </li>
+          <li class="faq" class="navbar-tabs-li" data-aos="fade-down" data-aos-delay="900">
+            <a href="#faq" aria-label="FAQ menu button">
+              &#60;/FAQ&#62;
+            </a>
+          </li>
         </ul>
       </div>
       <!-- navbar tabs ends -->
@@ -120,6 +173,11 @@
             &#60;/Projects&#62;
           </a>
         </li>
+        <li id="faq-mobile-tab" class="mobile-navbar-tabs-li faq" onclick="hidemenubyli()">
+          <a href="#faq" tabindex="0" aria-label="FAQ menu button">
+            &#60;/FAQ&#62;
+          </a>
+        </li>
       </ul>
     </div>
     <!-- mobile toggle menu ends -->
@@ -128,6 +186,7 @@
       <div class="blob"></div>
 
       <div class="text-content">
+        <h1 style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">Zain Latif Portfolio | Software Engineer | Data Analyst</h1>
         <article id="hello-friend" data-aos="fade-up" data-aos-delay="0">
           
           <p class="jello">H</p>
@@ -191,7 +250,7 @@
 
         </article>
       <p id="info-para" data-aos="fade-up" data-aos-delay="600">
-  Data Analyst with hands-on experience in data analysis, visualization, and machine learning, supported by a strong background in full-stack web development using modern JavaScript technologies. I work on transforming raw data into meaningful insights and building data-driven solutions.
+  Software Engineer and Data Analyst with hands-on experience in data analysis, visualization, and machine learning, supported by a strong background in full-stack web development using modern JavaScript technologies. I work on transforming raw data into meaningful insights and building data-driven solutions.
   <br /><br />
   I focus on clean, maintainable systems, understanding end-to-end workflows, and solving real-world problems through structured logic, analytics, and practical software implementation.
 </p>
@@ -447,6 +506,36 @@ Delivers smart suggestions as a simplified alternative to GSMArena and WhatMobil
           <!-- ---------------------- -->
         
           
+        </div>
+      </div>
+    </section>
+    <!-- projects section ends -->
+
+    <section class="faq-section-container" id="faq" data-aos="fade-up">
+      <div class="faq-section">
+        <div class="section-heading" data-aos="fade-up">
+          <h2 class="section-heading-article" tabindex="0" aria-label="FAQ section heading">
+            &#60;/FAQ&#62;
+          </h2>
+          <p class="sectionHeadingP"></p>
+        </div>
+        <div class="faq-list">
+          <div class="faq-item" data-aos="fade-up" data-aos-delay="100">
+            <h3>What does Zain Latif do?</h3>
+            <p>Zain Latif is a Software Engineer and Data Analyst who builds data-driven web applications, AI solutions, and analytics projects.</p>
+          </div>
+          <div class="faq-item" data-aos="fade-up" data-aos-delay="200">
+            <h3>Where is Zain Latif's portfolio hosted?</h3>
+            <p>The portfolio is hosted on Vercel at https://zainlatif.vercel.app/.</p>
+          </div>
+          <div class="faq-item" data-aos="fade-up" data-aos-delay="300">
+            <h3>How can I contact Zain Latif?</h3>
+            <p>You can contact Zain via email at zainlatif702@gmail.com or find him on GitHub and LinkedIn.</p>
+          </div>
+          <div class="faq-item" data-aos="fade-up" data-aos-delay="400">
+            <h3>What skills does Zain Latif specialize in?</h3>
+            <p>Zain specializes in JavaScript, React, Node.js, Python, SQL, data visualization, machine learning, and full-stack web development.</p>
+          </div>
         </div>
       </div>
     </section>
