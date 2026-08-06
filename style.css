@@ -1031,8 +1031,7 @@ noscript {
 }
 
 .faq-section-container {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding: 150px 0;
     width: 100%;
     display: flex;
     align-items: center;
@@ -1041,12 +1040,17 @@ noscript {
 
 .faq-section {
     width: 60%;
+    max-width: 1200px;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     gap: 25px;
+    margin: 0 auto;
 }
 
 .faq-list {
+    width: 100%;
     display: grid;
     gap: 20px;
     margin-top: 30px;
@@ -1540,23 +1544,32 @@ footer {
 }
 
 .certification-section-container {
-    padding: 80px 4rem 60px;
+    padding: 150px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .certification-section {
+    width: 60%;
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     gap: 1.5rem;
 }
 
 .certification-carousel {
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 1rem;
     flex-wrap: wrap;
+    margin-top: 30px;
 }
 
 .cert-card {
@@ -1643,7 +1656,8 @@ footer {
     .projects-section-div,
     .skills-section,
     .text-content,
-    .faq-section {
+    .faq-section,
+    .certification-section {
         width: 80%
     }
 
@@ -1923,7 +1937,8 @@ footer {
     }
 
     .projects-section-div,
-    .faq-section {
+    .faq-section,
+    .certification-section {
         width: 80%
     }
 
